@@ -1,3 +1,7 @@
+# Sentry On-Premise Bootstrap with Advanced SSO features enabled
+
+----------------------------------------------
+
 # Sentry On-Premise
 
 Official bootstrap for running your own [Sentry](https://sentry.io/) with [Docker](https://www.docker.com/).
